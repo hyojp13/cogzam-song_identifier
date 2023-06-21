@@ -1,7 +1,7 @@
 # contents of setup.py
 import setuptools
 
-PROJECT_NAME = "cogzam"  # change this!
+PROJECT_NAME = "cogzam"
 
 setuptools.setup(
     name=PROJECT_NAME,
