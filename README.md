@@ -1,6 +1,6 @@
 # Cog*Zam
 
- Given song recordings, Cog*Zam uses spectograms and fingerprinting algorithms to store analyzed song information into a database. Then, the program can identify songs from the database when given an audio recording that contains a stored song.
+ Given song recordings, Cog*Zam can use spectograms and fingerprinting algorithms to store analyzed song information into a database. Then, the program can identify songs from the database when given an audio recording that contains a stored song.
 
 ## Installation and Usage
 To install this package, run the command:
